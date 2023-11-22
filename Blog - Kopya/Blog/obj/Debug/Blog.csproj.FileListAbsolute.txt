@@ -1,0 +1,292 @@
+D:\Onur\blog\Blog\Blog\bin\Blog.dll.config
+D:\Onur\blog\Blog\Blog\bin\Blog.dll
+D:\Onur\blog\Blog\Blog\bin\Blog.pdb
+D:\Onur\blog\Blog\Blog\bin\roslyn\csc.exe
+D:\Onur\blog\Blog\Blog\bin\roslyn\csc.exe.config
+D:\Onur\blog\Blog\Blog\bin\roslyn\csc.rsp
+D:\Onur\blog\Blog\Blog\bin\roslyn\csi.exe
+D:\Onur\blog\Blog\Blog\bin\roslyn\csi.exe.config
+D:\Onur\blog\Blog\Blog\bin\roslyn\csi.rsp
+D:\Onur\blog\Blog\Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Onur\blog\Blog\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Onur\blog\Blog\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Onur\blog\Blog\Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Onur\blog\Blog\Blog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Onur\blog\Blog\Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Onur\blog\Blog\Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Onur\blog\Blog\Blog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Onur\blog\Blog\Blog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Onur\blog\Blog\Blog\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Onur\blog\Blog\Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Onur\blog\Blog\Blog\bin\roslyn\System.AppContext.dll
+D:\Onur\blog\Blog\Blog\bin\roslyn\System.Collections.Immutable.dll
+D:\Onur\blog\Blog\Blog\bin\roslyn\System.Console.dll
+D:\Onur\blog\Blog\Blog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Onur\blog\Blog\Blog\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Onur\blog\Blog\Blog\bin\roslyn\System.IO.Compression.dll
+D:\Onur\blog\Blog\Blog\bin\roslyn\System.IO.FileSystem.dll
+D:\Onur\blog\Blog\Blog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Onur\blog\Blog\Blog\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Onur\blog\Blog\Blog\bin\roslyn\System.IO.Pipes.dll
+D:\Onur\blog\Blog\Blog\bin\roslyn\System.Reflection.Metadata.dll
+D:\Onur\blog\Blog\Blog\bin\roslyn\System.Security.AccessControl.dll
+D:\Onur\blog\Blog\Blog\bin\roslyn\System.Security.Claims.dll
+D:\Onur\blog\Blog\Blog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Onur\blog\Blog\Blog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Onur\blog\Blog\Blog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Onur\blog\Blog\Blog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Onur\blog\Blog\Blog\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Onur\blog\Blog\Blog\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Onur\blog\Blog\Blog\bin\roslyn\System.ValueTuple.dll
+D:\Onur\blog\Blog\Blog\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Onur\blog\Blog\Blog\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Onur\blog\Blog\Blog\bin\roslyn\System.Xml.XPath.dll
+D:\Onur\blog\Blog\Blog\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Onur\blog\Blog\Blog\bin\roslyn\vbc.exe
+D:\Onur\blog\Blog\Blog\bin\roslyn\vbc.exe.config
+D:\Onur\blog\Blog\Blog\bin\roslyn\vbc.rsp
+D:\Onur\blog\Blog\Blog\bin\roslyn\VBCSCompiler.exe
+D:\Onur\blog\Blog\Blog\bin\roslyn\VBCSCompiler.exe.config
+D:\Onur\blog\Blog\Blog\bin\EntityFramework.dll
+D:\Onur\blog\Blog\Blog\bin\EntityFramework.SqlServer.dll
+D:\Onur\blog\Blog\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Onur\blog\Blog\Blog\bin\Microsoft.Web.Infrastructure.dll
+D:\Onur\blog\Blog\Blog\bin\System.Web.Helpers.dll
+D:\Onur\blog\Blog\Blog\bin\System.Web.Mvc.dll
+D:\Onur\blog\Blog\Blog\bin\System.Web.Razor.dll
+D:\Onur\blog\Blog\Blog\bin\System.Web.Webpages.Deployment.dll
+D:\Onur\blog\Blog\Blog\bin\System.Web.Webpages.dll
+D:\Onur\blog\Blog\Blog\bin\System.Web.Webpages.Razor.dll
+D:\Onur\blog\Blog\Blog\bin\EntityFramework.xml
+D:\Onur\blog\Blog\Blog\bin\EntityFramework.SqlServer.xml
+D:\Onur\blog\Blog\Blog\bin\System.Web.Razor.xml
+D:\Onur\blog\Blog\Blog\bin\System.Web.Webpages.xml
+D:\Onur\blog\Blog\Blog\bin\System.Web.Webpages.Deployment.xml
+D:\Onur\blog\Blog\Blog\bin\System.Web.Webpages.Razor.xml
+D:\Onur\blog\Blog\Blog\bin\System.Web.Helpers.xml
+D:\Onur\blog\Blog\Blog\bin\System.Web.Mvc.xml
+D:\Onur\blog\Blog\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Onur\blog\Blog\Blog\obj\Debug\Blog.csprojAssemblyReference.cache
+D:\Onur\blog\Blog\Blog\obj\Debug\Blog.csproj.CoreCompileInputs.cache
+D:\Onur\blog\Blog\Blog\obj\Debug\Blog.csproj.CopyComplete
+D:\Onur\blog\Blog\Blog\obj\Debug\Blog.dll
+D:\Onur\blog\Blog\Blog\obj\Debug\Blog.pdb
+C:\Users\mert-\Desktop\Blog\Blog\bin\Blog.dll.config
+C:\Users\mert-\Desktop\Blog\Blog\bin\Blog.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\Blog.pdb
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\csc.exe
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\csc.exe.config
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\csc.rsp
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\csi.exe
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\csi.exe.config
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\csi.rsp
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\System.AppContext.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\System.Console.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\System.IO.Compression.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\System.Security.Claims.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\System.ValueTuple.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\vbc.exe
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\vbc.exe.config
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\vbc.rsp
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\VBCSCompiler.exe
+C:\Users\mert-\Desktop\Blog\Blog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mert-\Desktop\Blog\Blog\bin\EntityFramework.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\EntityFramework.SqlServer.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\System.Web.Helpers.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\System.Web.Mvc.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\System.Web.Razor.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\System.Web.Webpages.Deployment.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\System.Web.Webpages.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\System.Web.Webpages.Razor.dll
+C:\Users\mert-\Desktop\Blog\Blog\bin\EntityFramework.xml
+C:\Users\mert-\Desktop\Blog\Blog\bin\EntityFramework.SqlServer.xml
+C:\Users\mert-\Desktop\Blog\Blog\bin\System.Web.Razor.xml
+C:\Users\mert-\Desktop\Blog\Blog\bin\System.Web.Webpages.xml
+C:\Users\mert-\Desktop\Blog\Blog\bin\System.Web.Webpages.Deployment.xml
+C:\Users\mert-\Desktop\Blog\Blog\bin\System.Web.Webpages.Razor.xml
+C:\Users\mert-\Desktop\Blog\Blog\bin\System.Web.Helpers.xml
+C:\Users\mert-\Desktop\Blog\Blog\bin\System.Web.Mvc.xml
+C:\Users\mert-\Desktop\Blog\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mert-\Desktop\Blog\Blog\obj\Debug\Blog.csproj.AssemblyReference.cache
+C:\Users\mert-\Desktop\Blog\Blog\obj\Debug\Blog.csproj.CoreCompileInputs.cache
+C:\Users\mert-\Desktop\Blog\Blog\obj\Debug\Blog.csproj.CopyComplete
+C:\Users\mert-\Desktop\Blog\Blog\obj\Debug\Blog.dll
+C:\Users\mert-\Desktop\Blog\Blog\obj\Debug\Blog.pdb
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\Blog.dll.config
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\Blog.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\Blog.pdb
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\csc.exe
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\csc.exe.config
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\csc.rsp
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\csi.exe
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\csi.exe.config
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\csi.rsp
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\System.AppContext.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\System.Console.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\System.IO.Compression.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\System.Security.Claims.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\System.ValueTuple.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\vbc.exe
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\vbc.exe.config
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\vbc.rsp
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\VBCSCompiler.exe
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\EntityFramework.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\EntityFramework.SqlServer.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\System.Web.Helpers.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\System.Web.Mvc.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\System.Web.Razor.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\System.Web.Webpages.Deployment.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\System.Web.Webpages.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\System.Web.Webpages.Razor.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\EntityFramework.xml
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\EntityFramework.SqlServer.xml
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\System.Web.Razor.xml
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\System.Web.Webpages.xml
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\System.Web.Webpages.Deployment.xml
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\System.Web.Webpages.Razor.xml
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\System.Web.Helpers.xml
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\System.Web.Mvc.xml
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\obj\Debug\Blog.csproj.AssemblyReference.cache
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\obj\Debug\Blog.csproj.CoreCompileInputs.cache
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\obj\Debug\Blog.csproj.CopyComplete
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\obj\Debug\Blog.dll
+C:\Users\mert-\Desktop\Blog - Kopya\Blog\obj\Debug\Blog.pdb
+D:\Yeni klasör\Blog - Kopya\Blog\bin\Blog.dll.config
+D:\Yeni klasör\Blog - Kopya\Blog\bin\Blog.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\Blog.pdb
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\csc.exe
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\csc.exe.config
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\csc.rsp
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\csi.exe
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\csi.exe.config
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\csi.rsp
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\System.AppContext.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\System.Collections.Immutable.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\System.Console.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\System.IO.Compression.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\System.IO.FileSystem.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\System.IO.Pipes.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\System.Reflection.Metadata.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\System.Security.AccessControl.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\System.Security.Claims.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\System.ValueTuple.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\System.Xml.XPath.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\vbc.exe
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\vbc.exe.config
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\vbc.rsp
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\VBCSCompiler.exe
+D:\Yeni klasör\Blog - Kopya\Blog\bin\roslyn\VBCSCompiler.exe.config
+D:\Yeni klasör\Blog - Kopya\Blog\bin\EntityFramework.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\EntityFramework.SqlServer.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\Microsoft.Web.Infrastructure.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\System.Web.Helpers.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\System.Web.Mvc.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\System.Web.Razor.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\System.Web.Webpages.Deployment.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\System.Web.Webpages.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\System.Web.Webpages.Razor.dll
+D:\Yeni klasör\Blog - Kopya\Blog\bin\EntityFramework.xml
+D:\Yeni klasör\Blog - Kopya\Blog\bin\EntityFramework.SqlServer.xml
+D:\Yeni klasör\Blog - Kopya\Blog\bin\System.Web.Razor.xml
+D:\Yeni klasör\Blog - Kopya\Blog\bin\System.Web.Webpages.xml
+D:\Yeni klasör\Blog - Kopya\Blog\bin\System.Web.Webpages.Deployment.xml
+D:\Yeni klasör\Blog - Kopya\Blog\bin\System.Web.Webpages.Razor.xml
+D:\Yeni klasör\Blog - Kopya\Blog\bin\System.Web.Helpers.xml
+D:\Yeni klasör\Blog - Kopya\Blog\bin\System.Web.Mvc.xml
+D:\Yeni klasör\Blog - Kopya\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Yeni klasör\Blog - Kopya\Blog\obj\Debug\Blog.csproj.AssemblyReference.cache
+D:\Yeni klasör\Blog - Kopya\Blog\obj\Debug\Blog.csproj.CoreCompileInputs.cache
+D:\Yeni klasör\Blog - Kopya\Blog\obj\Debug\Blog.csproj.CopyComplete
+D:\Yeni klasör\Blog - Kopya\Blog\obj\Debug\Blog.dll
+D:\Yeni klasör\Blog - Kopya\Blog\obj\Debug\Blog.pdb
